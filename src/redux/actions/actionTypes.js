@@ -1,0 +1,3 @@
+const GET_PLACES_LIST = 'GET_PLACES_LIST'
+
+export { GET_PLACES_LIST }
